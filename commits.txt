@@ -1,0 +1,35 @@
+commit 26ec3ff15ee17f5331ec629f2c308c7e966adb72
+Author: Jorge Luis <jorgefresh1706@gmail.com>
+Date:   Tue Jun 7 21:40:31 2016 -0400
+
+    Agregue mis paginas personales
+
+commit e9e02704bfcf347163c84fc3f02f0d6de86e7ec0
+Author: Jorge Luis <jorgefresh1706@gmail.com>
+Date:   Tue Jun 7 21:39:16 2016 -0400
+
+    Agregue mi descripcion
+
+commit 506d8331de103e6fc485927fc4ef2906d1873fc2
+Author: Jorge Luis <jorgefresh1706@gmail.com>
+Date:   Tue Jun 7 21:38:01 2016 -0400
+
+    Agregue las redes sociales
+
+commit f247f6e5ae994d1ac09b68dd6b37c78f9fc6bec8
+Author: Jorge Luis <jorgefresh1706@gmail.com>
+Date:   Tue Jun 7 21:35:10 2016 -0400
+
+    He cambiado mi perfil profesional
+
+commit 37dd71b439fda226f54ce84667be6a1d9f03e9bc
+Author: Jorge Luis <jorgefresh1706@gmail.com>
+Date:   Tue Jun 7 21:32:37 2016 -0400
+
+    Subi mi nombre
+
+commit d43d11967938392dff9bce71a31bddb7ccc31cd1
+Author: Jorge Luis <jorgefresh1706@gmail.com>
+Date:   Tue Jun 7 21:25:42 2016 -0400
+
+    Estos son los archivos base de mi portafolio
